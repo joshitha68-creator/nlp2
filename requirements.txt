@@ -1,4 +1,6 @@
 pandas
 streamlit
 nltk
-
+matplotlib
+seaborn
+wordcloud
